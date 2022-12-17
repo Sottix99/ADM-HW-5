@@ -4,7 +4,7 @@
 ---
 # Group members:
 * Sara Cammarota [[Github]()] 
-* Erica Luciani [[Github]()]
+* Erica Luciani [[Github](https://github.com/EricaLuciani)]
 * Alesandro Sottile [[Github](https://github.com/Sottix99)]
 # Repository:
 * `main.ipynb` contains the answer to the first two questions + the algorithmic one
