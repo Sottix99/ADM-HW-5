@@ -7,5 +7,5 @@
 * Erica Luciani [[Github](https://github.com/EricaLuciani)]
 * Alesandro Sottile [[Github](https://github.com/Sottix99)]
 # Repository:
-* `main.ipynb` contains the answer to the first two questions + the algorithmic one
+* `main.ipynb` contains the answer to the first two questions + the algorithmic one (We suggest to see the outputs directly from github)
 * `Commandline.sh` contains the answer to the command line question
